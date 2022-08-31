@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    background-image: url('./images/main.jpg');
+    height: 40em;
+    width: 100%;
+    background-size: cover;
+}
+
+.heading {
+    margin-left: 45%;
+}
+
+.image1 {
+    background-image: url('./images/men.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 100%;
+}
+
+.image2 {
+    background-image: url('./images/women.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 100%;
+}
+
+.image3 {
+    background-image: url('./images/accesories.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 100%;
+}
+
+.img-fluid {
+    height: 30em;
+}
+
+.main {
+    object-fit: contain;
+}
+
+.contactbutton {
+    padding: 10px 90px;
+    background-color: purple;
+    outline: none;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    border: 1px solid skyblue;
+}
+
+.contactbutton1 {
+    padding: 16px 60px;
+    background-color: purple;
+    outline: none;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    border: 1px solid skyblue;
+}
+
+.attherate {
+    color: purple;
+}
+
+.contactinput {
+    border-radius: 25px;
+    padding: 16px 10px;
+    width: 28%;
+    border: 2px solid #333;
+    font-size: 14px;
+    margin-left: 35%;
+    margin-top: 1%;
+    outline: none;
+}
+
+#contactmessage {
+    font-family: sans-serif;
+    outline: none;
+    vertical-align: top;
+    border-radius: 25px;
+    margin-top: 3%;
+    padding: 16px 10px;
+    width: 28%;
+    height: 120px;
+    text-align: top;
+    border: 2px solid #333;
+    font-size: 14px;
+    margin-left: 35%;
+}
+
+.contactbutton {
+    padding: 16px 32px;
+    background-color: purple;
+    outline: none;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    border: 1px solid skyblue;
+    margin-left: 40.5%;
+    margin-top: 3%;
+}
+
+.closetag {
+    padding: 100%;
+}
+
+.circle {
+    height: 110px;
+    width: 30%;
+    border-radius: 100%;
+    background-image: url(../images/15.jpg);
+    background-size: 100% 100%;
+}
